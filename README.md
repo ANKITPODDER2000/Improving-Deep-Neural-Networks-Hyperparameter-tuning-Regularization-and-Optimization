@@ -1,4 +1,4 @@
-# Improving-Deep-Neural-Networks-Hyperparameter-tuning-Regularization-and-Optimization-Week-1
+# Improving-Deep-Neural-Networks-Hyperparameter-tuning-Regularization-and-Optimization
 *******************************************************************************************************************************
 Link of Course : https://www.coursera.org/learn/deep-neural-network/home/welcome
 *******************************************************************************************************************************
