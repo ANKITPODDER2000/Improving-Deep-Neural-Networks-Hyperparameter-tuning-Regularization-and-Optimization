@@ -31,7 +31,7 @@ Good luck as you get started, and I hope you enjoy the course!
 
   >>Optimization Algorithm
 
-#Week
+#Week3
 
   >>Hyperparameter tuning,Batch Normalization and Programming Frameworks
 
