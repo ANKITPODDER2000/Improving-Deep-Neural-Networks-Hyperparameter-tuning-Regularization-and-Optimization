@@ -3,8 +3,11 @@
 Link of Course : https://www.coursera.org/learn/deep-neural-network/home/welcome
 *******************************************************************************************************************************
 Instructors' name :
+
 *Andrew Ng
+
 *Kiran Katanforoosh
+
 *Younes Mourri
 *******************************************************************************************************************************
 Welcome to Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization! You’re joining
@@ -21,9 +24,15 @@ For technical problems with the Coursera platform, visit the Learner Help Center
 Good luck as you get started, and I hope you enjoy the course!
 *******************************************************************************************************************************
 #Week1 
+ 
   >> Practical aspects of Deep Learning
+
 #Week2
+
   >>Optimization Algorithm
+
 #Week
+
   >>Hyperparameter tuning,Batch Normalization and Programming Frameworks
+
 *******************************************************************************************************************************
